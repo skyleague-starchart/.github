@@ -1,12 +1,7 @@
-## Hi there 👋
+# SkyLeague StarChart Terraform modules :party:
 
-<!--
+This GitHub organisation holds all the public and private repo's available as Terraform modules for [StarChart](https://github.com/skyleague/starchart).
 
-**Here are some ideas to get you started:**
+StarChart is a collection of templates for Terraform and Typescript to deploy serverless projects to AWS Cloud.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Feel free to use these modules either in combination with StarChart or directly in your own projects, PR's welcome!
