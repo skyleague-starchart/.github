@@ -1,4 +1,4 @@
-# SkyLeague StarChart Terraform modules :party:
+# SkyLeague StarChart Terraform modules 🥳
 
 This GitHub organisation holds all the public and private repo's available as Terraform modules for [StarChart](https://github.com/skyleague/starchart).
 
